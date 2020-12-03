@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ImageRecognition")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Image Recognition with Emgu CV")]
+[assembly: AssemblyDescription("Image Recognition with Emgu CV")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("None")]
 [assembly: AssemblyProduct("ImageRecognition")]
